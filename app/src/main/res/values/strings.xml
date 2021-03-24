@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FunnyQuotesApplication</string>
+    <string name="get_quotes">Начать веселье!</string>
+    <string name="return_to_quotes">Вернуться к историям/анекдотам</string>
+    <string name="joke1">Что это у тебя в руках? Электронная книга. Ты что, пытаешься бросить читать?</string>
+    <string name="joke2">Помни: те, кто читают книги, всегда будут управлять теми, кто смотрит телевизор.</string>
+    <string name="find_something_funny_for_you">Найди что-нибудь интересное для себя!</string>
+    <string name="Click_and_smile">Нажми и улыбнись!</string>
+    <string name="text">Тот, кто смеется последним, вероятно, сам собирался рассказать этот анекдот.</string>
+</resources>
